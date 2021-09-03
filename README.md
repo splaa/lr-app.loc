@@ -2,7 +2,6 @@
 
 
 
-[Внешние ключи FOREIGN KEY](https://metanit.com/sql/mysql/2.5.php)
-[alexeymezenin/ laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices/blob/master/russian.md)
-
-https://github.com/rageserg/laravel-app
+- [Внешние ключи FOREIGN KEY](https://metanit.com/sql/mysql/2.5.php)
+- [alexeymezenin/ laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices/blob/master/russian.md)
+- [origin repo](https://github.com/rageserg/laravel-app)
